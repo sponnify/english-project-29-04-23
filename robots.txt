@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /
+Disallow: /redirect
+Disallow: /testing-showcase.html
+Disallow: /search
+
+User-agent: googlebot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: Petalbot
+Allow: /
+
+User-agent: EchoboxBot
+Allow: /
+
+User-agent: Facebookexternalhit
+Allow: /
+
+User-agent: bitlybot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+Sitemap: https://www.thejakartapost.com/sitemap.xml
